@@ -1,0 +1,5002 @@
+[
+  {
+    "GameId": 4,
+    "UserId": 6,
+    "Score": 14
+  },
+  {
+    "GameId": 1,
+    "UserId": 6,
+    "Score": 9
+  },
+  {
+    "GameId": 5,
+    "UserId": 12,
+    "Score": 14
+  },
+  {
+    "GameId": 3,
+    "UserId": 28,
+    "Score": 13
+  },
+  {
+    "GameId": 3,
+    "UserId": 75,
+    "Score": 12
+  },
+  {
+    "GameId": 4,
+    "UserId": 83,
+    "Score": 83
+  },
+  {
+    "GameId": 2,
+    "UserId": 66,
+    "Score": 75
+  },
+  {
+    "GameId": 3,
+    "UserId": 30,
+    "Score": 88
+  },
+  {
+    "GameId": 3,
+    "UserId": 6,
+    "Score": 83
+  },
+  {
+    "GameId": 2,
+    "UserId": 78,
+    "Score": 20
+  },
+  {
+    "GameId": 3,
+    "UserId": 9,
+    "Score": 18
+  },
+  {
+    "GameId": 5,
+    "UserId": 30,
+    "Score": 66
+  },
+  {
+    "GameId": 5,
+    "UserId": 30,
+    "Score": 64
+  },
+  {
+    "GameId": 5,
+    "UserId": 63,
+    "Score": 32
+  },
+  {
+    "GameId": 4,
+    "UserId": 12,
+    "Score": 14
+  },
+  {
+    "GameId": 4,
+    "UserId": 4,
+    "Score": 48
+  },
+  {
+    "GameId": 5,
+    "UserId": 38,
+    "Score": 30
+  },
+  {
+    "GameId": 3,
+    "UserId": 53,
+    "Score": 58
+  },
+  {
+    "GameId": 2,
+    "UserId": 7,
+    "Score": 25
+  },
+  {
+    "GameId": 2,
+    "UserId": 59,
+    "Score": 53
+  },
+  {
+    "GameId": 2,
+    "UserId": 75,
+    "Score": 45
+  },
+  {
+    "GameId": 4,
+    "UserId": 5,
+    "Score": 89
+  },
+  {
+    "GameId": 5,
+    "UserId": 15,
+    "Score": 43
+  },
+  {
+    "GameId": 3,
+    "UserId": 20,
+    "Score": 8
+  },
+  {
+    "GameId": 4,
+    "UserId": 19,
+    "Score": 28
+  },
+  {
+    "GameId": 2,
+    "UserId": 31,
+    "Score": 43
+  },
+  {
+    "GameId": 5,
+    "UserId": 8,
+    "Score": 66
+  },
+  {
+    "GameId": 2,
+    "UserId": 21,
+    "Score": 20
+  },
+  {
+    "GameId": 1,
+    "UserId": 97,
+    "Score": 21
+  },
+  {
+    "GameId": 1,
+    "UserId": 96,
+    "Score": 26
+  },
+  {
+    "GameId": 2,
+    "UserId": 14,
+    "Score": 66
+  },
+  {
+    "GameId": 1,
+    "UserId": 11,
+    "Score": 93
+  },
+  {
+    "GameId": 5,
+    "UserId": 35,
+    "Score": 59
+  },
+  {
+    "GameId": 2,
+    "UserId": 4,
+    "Score": 20
+  },
+  {
+    "GameId": 4,
+    "UserId": 1,
+    "Score": 65
+  },
+  {
+    "GameId": 1,
+    "UserId": 4,
+    "Score": 70
+  },
+  {
+    "GameId": 1,
+    "UserId": 59,
+    "Score": 43
+  },
+  {
+    "GameId": 5,
+    "UserId": 89,
+    "Score": 39
+  },
+  {
+    "GameId": 3,
+    "UserId": 21,
+    "Score": 23
+  },
+  {
+    "GameId": 2,
+    "UserId": 59,
+    "Score": 18
+  },
+  {
+    "GameId": 3,
+    "UserId": 16,
+    "Score": 84
+  },
+  {
+    "GameId": 5,
+    "UserId": 80,
+    "Score": 29
+  },
+  {
+    "GameId": 2,
+    "UserId": 3,
+    "Score": 33
+  },
+  {
+    "GameId": 3,
+    "UserId": 89,
+    "Score": 34
+  },
+  {
+    "GameId": 4,
+    "UserId": 42,
+    "Score": 22
+  },
+  {
+    "GameId": 2,
+    "UserId": 18,
+    "Score": 4
+  },
+  {
+    "GameId": 1,
+    "UserId": 16,
+    "Score": 81
+  },
+  {
+    "GameId": 2,
+    "UserId": 7,
+    "Score": 1
+  },
+  {
+    "GameId": 1,
+    "UserId": 51,
+    "Score": 97
+  },
+  {
+    "GameId": 3,
+    "UserId": 61,
+    "Score": 93
+  },
+  {
+    "GameId": 2,
+    "UserId": 46,
+    "Score": 72
+  },
+  {
+    "GameId": 3,
+    "UserId": 13,
+    "Score": 87
+  },
+  {
+    "GameId": 5,
+    "UserId": 80,
+    "Score": 85
+  },
+  {
+    "GameId": 4,
+    "UserId": 83,
+    "Score": 19
+  },
+  {
+    "GameId": 1,
+    "UserId": 31,
+    "Score": 37
+  },
+  {
+    "GameId": 5,
+    "UserId": 53,
+    "Score": 94
+  },
+  {
+    "GameId": 5,
+    "UserId": 99,
+    "Score": 42
+  },
+  {
+    "GameId": 4,
+    "UserId": 33,
+    "Score": 99
+  },
+  {
+    "GameId": 5,
+    "UserId": 7,
+    "Score": 65
+  },
+  {
+    "GameId": 1,
+    "UserId": 78,
+    "Score": 11
+  },
+  {
+    "GameId": 2,
+    "UserId": 77,
+    "Score": 68
+  },
+  {
+    "GameId": 5,
+    "UserId": 51,
+    "Score": 87
+  },
+  {
+    "GameId": 2,
+    "UserId": 21,
+    "Score": 2
+  },
+  {
+    "GameId": 4,
+    "UserId": 92,
+    "Score": 80
+  },
+  {
+    "GameId": 4,
+    "UserId": 91,
+    "Score": 88
+  },
+  {
+    "GameId": 3,
+    "UserId": 68,
+    "Score": 18
+  },
+  {
+    "GameId": 1,
+    "UserId": 85,
+    "Score": 11
+  },
+  {
+    "GameId": 1,
+    "UserId": 56,
+    "Score": 5
+  },
+  {
+    "GameId": 1,
+    "UserId": 41,
+    "Score": 80
+  },
+  {
+    "GameId": 3,
+    "UserId": 16,
+    "Score": 71
+  },
+  {
+    "GameId": 2,
+    "UserId": 90,
+    "Score": 12
+  },
+  {
+    "GameId": 1,
+    "UserId": 37,
+    "Score": 15
+  },
+  {
+    "GameId": 5,
+    "UserId": 85,
+    "Score": 67
+  },
+  {
+    "GameId": 4,
+    "UserId": 53,
+    "Score": 99
+  },
+  {
+    "GameId": 2,
+    "UserId": 67,
+    "Score": 97
+  },
+  {
+    "GameId": 1,
+    "UserId": 13,
+    "Score": 38
+  },
+  {
+    "GameId": 4,
+    "UserId": 50,
+    "Score": 51
+  },
+  {
+    "GameId": 4,
+    "UserId": 36,
+    "Score": 29
+  },
+  {
+    "GameId": 2,
+    "UserId": 83,
+    "Score": 36
+  },
+  {
+    "GameId": 2,
+    "UserId": 6,
+    "Score": 54
+  },
+  {
+    "GameId": 4,
+    "UserId": 53,
+    "Score": 45
+  },
+  {
+    "GameId": 3,
+    "UserId": 48,
+    "Score": 70
+  },
+  {
+    "GameId": 5,
+    "UserId": 5,
+    "Score": 43
+  },
+  {
+    "GameId": 1,
+    "UserId": 46,
+    "Score": 19
+  },
+  {
+    "GameId": 1,
+    "UserId": 45,
+    "Score": 60
+  },
+  {
+    "GameId": 1,
+    "UserId": 17,
+    "Score": 18
+  },
+  {
+    "GameId": 5,
+    "UserId": 13,
+    "Score": 41
+  },
+  {
+    "GameId": 5,
+    "UserId": 28,
+    "Score": 30
+  },
+  {
+    "GameId": 1,
+    "UserId": 16,
+    "Score": 35
+  },
+  {
+    "GameId": 4,
+    "UserId": 33,
+    "Score": 63
+  },
+  {
+    "GameId": 5,
+    "UserId": 93,
+    "Score": 50
+  },
+  {
+    "GameId": 4,
+    "UserId": 22,
+    "Score": 6
+  },
+  {
+    "GameId": 1,
+    "UserId": 25,
+    "Score": 41
+  },
+  {
+    "GameId": 1,
+    "UserId": 2,
+    "Score": 67
+  },
+  {
+    "GameId": 1,
+    "UserId": 19,
+    "Score": 29
+  },
+  {
+    "GameId": 3,
+    "UserId": 4,
+    "Score": 51
+  },
+  {
+    "GameId": 4,
+    "UserId": 55,
+    "Score": 37
+  },
+  {
+    "GameId": 2,
+    "UserId": 3,
+    "Score": 81
+  },
+  {
+    "GameId": 4,
+    "UserId": 76,
+    "Score": 15
+  },
+  {
+    "GameId": 1,
+    "UserId": 35,
+    "Score": 23
+  },
+  {
+    "GameId": 4,
+    "UserId": 90,
+    "Score": 90
+  },
+  {
+    "GameId": 1,
+    "UserId": 29,
+    "Score": 54
+  },
+  {
+    "GameId": 5,
+    "UserId": 79,
+    "Score": 41
+  },
+  {
+    "GameId": 1,
+    "UserId": 64,
+    "Score": 41
+  },
+  {
+    "GameId": 4,
+    "UserId": 38,
+    "Score": 89
+  },
+  {
+    "GameId": 4,
+    "UserId": 43,
+    "Score": 48
+  },
+  {
+    "GameId": 1,
+    "UserId": 25,
+    "Score": 92
+  },
+  {
+    "GameId": 2,
+    "UserId": 91,
+    "Score": 28
+  },
+  {
+    "GameId": 5,
+    "UserId": 14,
+    "Score": 82
+  },
+  {
+    "GameId": 4,
+    "UserId": 52,
+    "Score": 49
+  },
+  {
+    "GameId": 4,
+    "UserId": 47,
+    "Score": 32
+  },
+  {
+    "GameId": 1,
+    "UserId": 86,
+    "Score": 54
+  },
+  {
+    "GameId": 5,
+    "UserId": 89,
+    "Score": 27
+  },
+  {
+    "GameId": 4,
+    "UserId": 15,
+    "Score": 15
+  },
+  {
+    "GameId": 5,
+    "UserId": 72,
+    "Score": 10
+  },
+  {
+    "GameId": 3,
+    "UserId": 76,
+    "Score": 32
+  },
+  {
+    "GameId": 4,
+    "UserId": 71,
+    "Score": 97
+  },
+  {
+    "GameId": 3,
+    "UserId": 59,
+    "Score": 49
+  },
+  {
+    "GameId": 4,
+    "UserId": 4,
+    "Score": 85
+  },
+  {
+    "GameId": 2,
+    "UserId": 36,
+    "Score": 91
+  },
+  {
+    "GameId": 5,
+    "UserId": 81,
+    "Score": 63
+  },
+  {
+    "GameId": 3,
+    "UserId": 43,
+    "Score": 86
+  },
+  {
+    "GameId": 3,
+    "UserId": 34,
+    "Score": 51
+  },
+  {
+    "GameId": 1,
+    "UserId": 24,
+    "Score": 52
+  },
+  {
+    "GameId": 3,
+    "UserId": 88,
+    "Score": 56
+  },
+  {
+    "GameId": 2,
+    "UserId": 69,
+    "Score": 57
+  },
+  {
+    "GameId": 1,
+    "UserId": 70,
+    "Score": 65
+  },
+  {
+    "GameId": 1,
+    "UserId": 2,
+    "Score": 26
+  },
+  {
+    "GameId": 2,
+    "UserId": 44,
+    "Score": 96
+  },
+  {
+    "GameId": 4,
+    "UserId": 5,
+    "Score": 8
+  },
+  {
+    "GameId": 2,
+    "UserId": 99,
+    "Score": 42
+  },
+  {
+    "GameId": 4,
+    "UserId": 96,
+    "Score": 56
+  },
+  {
+    "GameId": 2,
+    "UserId": 18,
+    "Score": 51
+  },
+  {
+    "GameId": 5,
+    "UserId": 69,
+    "Score": 77
+  },
+  {
+    "GameId": 4,
+    "UserId": 81,
+    "Score": 86
+  },
+  {
+    "GameId": 4,
+    "UserId": 21,
+    "Score": 62
+  },
+  {
+    "GameId": 3,
+    "UserId": 94,
+    "Score": 34
+  },
+  {
+    "GameId": 1,
+    "UserId": 37,
+    "Score": 50
+  },
+  {
+    "GameId": 3,
+    "UserId": 77,
+    "Score": 96
+  },
+  {
+    "GameId": 3,
+    "UserId": 9,
+    "Score": 79
+  },
+  {
+    "GameId": 2,
+    "UserId": 90,
+    "Score": 25
+  },
+  {
+    "GameId": 2,
+    "UserId": 93,
+    "Score": 6
+  },
+  {
+    "GameId": 4,
+    "UserId": 79,
+    "Score": 10
+  },
+  {
+    "GameId": 2,
+    "UserId": 9,
+    "Score": 19
+  },
+  {
+    "GameId": 3,
+    "UserId": 8,
+    "Score": 2
+  },
+  {
+    "GameId": 4,
+    "UserId": 21,
+    "Score": 23
+  },
+  {
+    "GameId": 3,
+    "UserId": 63,
+    "Score": 62
+  },
+  {
+    "GameId": 3,
+    "UserId": 69,
+    "Score": 88
+  },
+  {
+    "GameId": 3,
+    "UserId": 12,
+    "Score": 42
+  },
+  {
+    "GameId": 4,
+    "UserId": 2,
+    "Score": 84
+  },
+  {
+    "GameId": 3,
+    "UserId": 5,
+    "Score": 97
+  },
+  {
+    "GameId": 2,
+    "UserId": 82,
+    "Score": 13
+  },
+  {
+    "GameId": 5,
+    "UserId": 27,
+    "Score": 10
+  },
+  {
+    "GameId": 2,
+    "UserId": 35,
+    "Score": 9
+  },
+  {
+    "GameId": 4,
+    "UserId": 56,
+    "Score": 1
+  },
+  {
+    "GameId": 5,
+    "UserId": 88,
+    "Score": 46
+  },
+  {
+    "GameId": 4,
+    "UserId": 84,
+    "Score": 65
+  },
+  {
+    "GameId": 1,
+    "UserId": 83,
+    "Score": 44
+  },
+  {
+    "GameId": 3,
+    "UserId": 14,
+    "Score": 49
+  },
+  {
+    "GameId": 2,
+    "UserId": 1,
+    "Score": 31
+  },
+  {
+    "GameId": 3,
+    "UserId": 69,
+    "Score": 88
+  },
+  {
+    "GameId": 5,
+    "UserId": 53,
+    "Score": 23
+  },
+  {
+    "GameId": 1,
+    "UserId": 73,
+    "Score": 53
+  },
+  {
+    "GameId": 4,
+    "UserId": 96,
+    "Score": 33
+  },
+  {
+    "GameId": 4,
+    "UserId": 67,
+    "Score": 61
+  },
+  {
+    "GameId": 1,
+    "UserId": 11,
+    "Score": 43
+  },
+  {
+    "GameId": 5,
+    "UserId": 31,
+    "Score": 58
+  },
+  {
+    "GameId": 2,
+    "UserId": 82,
+    "Score": 23
+  },
+  {
+    "GameId": 1,
+    "UserId": 15,
+    "Score": 19
+  },
+  {
+    "GameId": 4,
+    "UserId": 45,
+    "Score": 99
+  },
+  {
+    "GameId": 1,
+    "UserId": 60,
+    "Score": 56
+  },
+  {
+    "GameId": 2,
+    "UserId": 29,
+    "Score": 29
+  },
+  {
+    "GameId": 2,
+    "UserId": 81,
+    "Score": 59
+  },
+  {
+    "GameId": 4,
+    "UserId": 73,
+    "Score": 54
+  },
+  {
+    "GameId": 5,
+    "UserId": 87,
+    "Score": 25
+  },
+  {
+    "GameId": 3,
+    "UserId": 37,
+    "Score": 17
+  },
+  {
+    "GameId": 1,
+    "UserId": 26,
+    "Score": 47
+  },
+  {
+    "GameId": 3,
+    "UserId": 23,
+    "Score": 49
+  },
+  {
+    "GameId": 3,
+    "UserId": 97,
+    "Score": 92
+  },
+  {
+    "GameId": 4,
+    "UserId": 86,
+    "Score": 47
+  },
+  {
+    "GameId": 1,
+    "UserId": 39,
+    "Score": 51
+  },
+  {
+    "GameId": 1,
+    "UserId": 46,
+    "Score": 28
+  },
+  {
+    "GameId": 2,
+    "UserId": 22,
+    "Score": 90
+  },
+  {
+    "GameId": 5,
+    "UserId": 10,
+    "Score": 72
+  },
+  {
+    "GameId": 3,
+    "UserId": 22,
+    "Score": 18
+  },
+  {
+    "GameId": 2,
+    "UserId": 42,
+    "Score": 98
+  },
+  {
+    "GameId": 1,
+    "UserId": 16,
+    "Score": 68
+  },
+  {
+    "GameId": 5,
+    "UserId": 41,
+    "Score": 15
+  },
+  {
+    "GameId": 1,
+    "UserId": 19,
+    "Score": 61
+  },
+  {
+    "GameId": 2,
+    "UserId": 64,
+    "Score": 20
+  },
+  {
+    "GameId": 3,
+    "UserId": 40,
+    "Score": 36
+  },
+  {
+    "GameId": 1,
+    "UserId": 64,
+    "Score": 54
+  },
+  {
+    "GameId": 2,
+    "UserId": 7,
+    "Score": 39
+  },
+  {
+    "GameId": 4,
+    "UserId": 55,
+    "Score": 65
+  },
+  {
+    "GameId": 5,
+    "UserId": 59,
+    "Score": 13
+  },
+  {
+    "GameId": 1,
+    "UserId": 30,
+    "Score": 25
+  },
+  {
+    "GameId": 3,
+    "UserId": 39,
+    "Score": 44
+  },
+  {
+    "GameId": 1,
+    "UserId": 42,
+    "Score": 15
+  },
+  {
+    "GameId": 2,
+    "UserId": 47,
+    "Score": 38
+  },
+  {
+    "GameId": 5,
+    "UserId": 94,
+    "Score": 72
+  },
+  {
+    "GameId": 1,
+    "UserId": 81,
+    "Score": 20
+  },
+  {
+    "GameId": 1,
+    "UserId": 85,
+    "Score": 53
+  },
+  {
+    "GameId": 1,
+    "UserId": 35,
+    "Score": 3
+  },
+  {
+    "GameId": 4,
+    "UserId": 38,
+    "Score": 89
+  },
+  {
+    "GameId": 2,
+    "UserId": 99,
+    "Score": 82
+  },
+  {
+    "GameId": 5,
+    "UserId": 43,
+    "Score": 11
+  },
+  {
+    "GameId": 1,
+    "UserId": 77,
+    "Score": 46
+  },
+  {
+    "GameId": 2,
+    "UserId": 93,
+    "Score": 9
+  },
+  {
+    "GameId": 4,
+    "UserId": 83,
+    "Score": 37
+  },
+  {
+    "GameId": 3,
+    "UserId": 99,
+    "Score": 68
+  },
+  {
+    "GameId": 5,
+    "UserId": 77,
+    "Score": 30
+  },
+  {
+    "GameId": 2,
+    "UserId": 42,
+    "Score": 45
+  },
+  {
+    "GameId": 1,
+    "UserId": 78,
+    "Score": 6
+  },
+  {
+    "GameId": 1,
+    "UserId": 28,
+    "Score": 46
+  },
+  {
+    "GameId": 2,
+    "UserId": 79,
+    "Score": 50
+  },
+  {
+    "GameId": 4,
+    "UserId": 21,
+    "Score": 34
+  },
+  {
+    "GameId": 3,
+    "UserId": 93,
+    "Score": 38
+  },
+  {
+    "GameId": 2,
+    "UserId": 85,
+    "Score": 10
+  },
+  {
+    "GameId": 2,
+    "UserId": 29,
+    "Score": 63
+  },
+  {
+    "GameId": 2,
+    "UserId": 9,
+    "Score": 29
+  },
+  {
+    "GameId": 5,
+    "UserId": 51,
+    "Score": 71
+  },
+  {
+    "GameId": 4,
+    "UserId": 7,
+    "Score": 20
+  },
+  {
+    "GameId": 2,
+    "UserId": 100,
+    "Score": 1
+  },
+  {
+    "GameId": 2,
+    "UserId": 58,
+    "Score": 76
+  },
+  {
+    "GameId": 2,
+    "UserId": 43,
+    "Score": 4
+  },
+  {
+    "GameId": 3,
+    "UserId": 64,
+    "Score": 73
+  },
+  {
+    "GameId": 4,
+    "UserId": 78,
+    "Score": 12
+  },
+  {
+    "GameId": 3,
+    "UserId": 15,
+    "Score": 73
+  },
+  {
+    "GameId": 5,
+    "UserId": 93,
+    "Score": 46
+  },
+  {
+    "GameId": 3,
+    "UserId": 53,
+    "Score": 28
+  },
+  {
+    "GameId": 1,
+    "UserId": 42,
+    "Score": 8
+  },
+  {
+    "GameId": 3,
+    "UserId": 69,
+    "Score": 82
+  },
+  {
+    "GameId": 1,
+    "UserId": 18,
+    "Score": 43
+  },
+  {
+    "GameId": 2,
+    "UserId": 32,
+    "Score": 1
+  },
+  {
+    "GameId": 3,
+    "UserId": 45,
+    "Score": 58
+  },
+  {
+    "GameId": 5,
+    "UserId": 36,
+    "Score": 99
+  },
+  {
+    "GameId": 4,
+    "UserId": 44,
+    "Score": 83
+  },
+  {
+    "GameId": 3,
+    "UserId": 91,
+    "Score": 9
+  },
+  {
+    "GameId": 4,
+    "UserId": 69,
+    "Score": 2
+  },
+  {
+    "GameId": 4,
+    "UserId": 48,
+    "Score": 54
+  },
+  {
+    "GameId": 1,
+    "UserId": 24,
+    "Score": 87
+  },
+  {
+    "GameId": 2,
+    "UserId": 13,
+    "Score": 98
+  },
+  {
+    "GameId": 5,
+    "UserId": 60,
+    "Score": 3
+  },
+  {
+    "GameId": 1,
+    "UserId": 96,
+    "Score": 29
+  },
+  {
+    "GameId": 2,
+    "UserId": 53,
+    "Score": 74
+  },
+  {
+    "GameId": 5,
+    "UserId": 77,
+    "Score": 19
+  },
+  {
+    "GameId": 5,
+    "UserId": 18,
+    "Score": 69
+  },
+  {
+    "GameId": 2,
+    "UserId": 9,
+    "Score": 72
+  },
+  {
+    "GameId": 4,
+    "UserId": 4,
+    "Score": 52
+  },
+  {
+    "GameId": 4,
+    "UserId": 32,
+    "Score": 40
+  },
+  {
+    "GameId": 4,
+    "UserId": 72,
+    "Score": 68
+  },
+  {
+    "GameId": 1,
+    "UserId": 56,
+    "Score": 65
+  },
+  {
+    "GameId": 2,
+    "UserId": 87,
+    "Score": 83
+  },
+  {
+    "GameId": 4,
+    "UserId": 32,
+    "Score": 66
+  },
+  {
+    "GameId": 3,
+    "UserId": 7,
+    "Score": 19
+  },
+  {
+    "GameId": 5,
+    "UserId": 80,
+    "Score": 89
+  },
+  {
+    "GameId": 2,
+    "UserId": 68,
+    "Score": 53
+  },
+  {
+    "GameId": 3,
+    "UserId": 38,
+    "Score": 96
+  },
+  {
+    "GameId": 5,
+    "UserId": 14,
+    "Score": 18
+  },
+  {
+    "GameId": 2,
+    "UserId": 4,
+    "Score": 60
+  },
+  {
+    "GameId": 5,
+    "UserId": 12,
+    "Score": 50
+  },
+  {
+    "GameId": 4,
+    "UserId": 24,
+    "Score": 48
+  },
+  {
+    "GameId": 3,
+    "UserId": 47,
+    "Score": 46
+  },
+  {
+    "GameId": 1,
+    "UserId": 45,
+    "Score": 20
+  },
+  {
+    "GameId": 4,
+    "UserId": 3,
+    "Score": 70
+  },
+  {
+    "GameId": 2,
+    "UserId": 57,
+    "Score": 75
+  },
+  {
+    "GameId": 2,
+    "UserId": 63,
+    "Score": 76
+  },
+  {
+    "GameId": 1,
+    "UserId": 48,
+    "Score": 51
+  },
+  {
+    "GameId": 5,
+    "UserId": 70,
+    "Score": 54
+  },
+  {
+    "GameId": 3,
+    "UserId": 84,
+    "Score": 12
+  },
+  {
+    "GameId": 3,
+    "UserId": 78,
+    "Score": 80
+  },
+  {
+    "GameId": 5,
+    "UserId": 99,
+    "Score": 10
+  },
+  {
+    "GameId": 3,
+    "UserId": 6,
+    "Score": 80
+  },
+  {
+    "GameId": 4,
+    "UserId": 42,
+    "Score": 31
+  },
+  {
+    "GameId": 1,
+    "UserId": 75,
+    "Score": 36
+  },
+  {
+    "GameId": 5,
+    "UserId": 30,
+    "Score": 82
+  },
+  {
+    "GameId": 5,
+    "UserId": 96,
+    "Score": 24
+  },
+  {
+    "GameId": 3,
+    "UserId": 58,
+    "Score": 89
+  },
+  {
+    "GameId": 3,
+    "UserId": 64,
+    "Score": 97
+  },
+  {
+    "GameId": 1,
+    "UserId": 69,
+    "Score": 99
+  },
+  {
+    "GameId": 2,
+    "UserId": 58,
+    "Score": 28
+  },
+  {
+    "GameId": 3,
+    "UserId": 38,
+    "Score": 21
+  },
+  {
+    "GameId": 3,
+    "UserId": 26,
+    "Score": 97
+  },
+  {
+    "GameId": 5,
+    "UserId": 21,
+    "Score": 73
+  },
+  {
+    "GameId": 4,
+    "UserId": 56,
+    "Score": 52
+  },
+  {
+    "GameId": 4,
+    "UserId": 60,
+    "Score": 76
+  },
+  {
+    "GameId": 5,
+    "UserId": 60,
+    "Score": 64
+  },
+  {
+    "GameId": 1,
+    "UserId": 59,
+    "Score": 66
+  },
+  {
+    "GameId": 1,
+    "UserId": 55,
+    "Score": 35
+  },
+  {
+    "GameId": 2,
+    "UserId": 97,
+    "Score": 60
+  },
+  {
+    "GameId": 4,
+    "UserId": 51,
+    "Score": 73
+  },
+  {
+    "GameId": 5,
+    "UserId": 97,
+    "Score": 27
+  },
+  {
+    "GameId": 1,
+    "UserId": 49,
+    "Score": 79
+  },
+  {
+    "GameId": 5,
+    "UserId": 58,
+    "Score": 62
+  },
+  {
+    "GameId": 4,
+    "UserId": 47,
+    "Score": 35
+  },
+  {
+    "GameId": 3,
+    "UserId": 38,
+    "Score": 72
+  },
+  {
+    "GameId": 4,
+    "UserId": 50,
+    "Score": 90
+  },
+  {
+    "GameId": 5,
+    "UserId": 47,
+    "Score": 35
+  },
+  {
+    "GameId": 1,
+    "UserId": 8,
+    "Score": 8
+  },
+  {
+    "GameId": 2,
+    "UserId": 36,
+    "Score": 60
+  },
+  {
+    "GameId": 2,
+    "UserId": 52,
+    "Score": 17
+  },
+  {
+    "GameId": 4,
+    "UserId": 85,
+    "Score": 52
+  },
+  {
+    "GameId": 5,
+    "UserId": 27,
+    "Score": 73
+  },
+  {
+    "GameId": 4,
+    "UserId": 76,
+    "Score": 11
+  },
+  {
+    "GameId": 2,
+    "UserId": 29,
+    "Score": 51
+  },
+  {
+    "GameId": 5,
+    "UserId": 6,
+    "Score": 100
+  },
+  {
+    "GameId": 5,
+    "UserId": 77,
+    "Score": 11
+  },
+  {
+    "GameId": 4,
+    "UserId": 32,
+    "Score": 97
+  },
+  {
+    "GameId": 3,
+    "UserId": 9,
+    "Score": 94
+  },
+  {
+    "GameId": 5,
+    "UserId": 36,
+    "Score": 30
+  },
+  {
+    "GameId": 2,
+    "UserId": 54,
+    "Score": 12
+  },
+  {
+    "GameId": 1,
+    "UserId": 80,
+    "Score": 64
+  },
+  {
+    "GameId": 1,
+    "UserId": 47,
+    "Score": 13
+  },
+  {
+    "GameId": 2,
+    "UserId": 18,
+    "Score": 39
+  },
+  {
+    "GameId": 1,
+    "UserId": 10,
+    "Score": 97
+  },
+  {
+    "GameId": 4,
+    "UserId": 38,
+    "Score": 11
+  },
+  {
+    "GameId": 4,
+    "UserId": 27,
+    "Score": 63
+  },
+  {
+    "GameId": 4,
+    "UserId": 66,
+    "Score": 37
+  },
+  {
+    "GameId": 3,
+    "UserId": 63,
+    "Score": 14
+  },
+  {
+    "GameId": 5,
+    "UserId": 66,
+    "Score": 36
+  },
+  {
+    "GameId": 5,
+    "UserId": 70,
+    "Score": 8
+  },
+  {
+    "GameId": 3,
+    "UserId": 60,
+    "Score": 98
+  },
+  {
+    "GameId": 5,
+    "UserId": 62,
+    "Score": 69
+  },
+  {
+    "GameId": 5,
+    "UserId": 15,
+    "Score": 60
+  },
+  {
+    "GameId": 2,
+    "UserId": 99,
+    "Score": 80
+  },
+  {
+    "GameId": 5,
+    "UserId": 26,
+    "Score": 50
+  },
+  {
+    "GameId": 5,
+    "UserId": 7,
+    "Score": 76
+  },
+  {
+    "GameId": 3,
+    "UserId": 34,
+    "Score": 68
+  },
+  {
+    "GameId": 5,
+    "UserId": 19,
+    "Score": 41
+  },
+  {
+    "GameId": 5,
+    "UserId": 72,
+    "Score": 92
+  },
+  {
+    "GameId": 5,
+    "UserId": 42,
+    "Score": 4
+  },
+  {
+    "GameId": 5,
+    "UserId": 78,
+    "Score": 85
+  },
+  {
+    "GameId": 2,
+    "UserId": 87,
+    "Score": 77
+  },
+  {
+    "GameId": 5,
+    "UserId": 31,
+    "Score": 61
+  },
+  {
+    "GameId": 1,
+    "UserId": 91,
+    "Score": 58
+  },
+  {
+    "GameId": 2,
+    "UserId": 100,
+    "Score": 98
+  },
+  {
+    "GameId": 4,
+    "UserId": 65,
+    "Score": 42
+  },
+  {
+    "GameId": 2,
+    "UserId": 20,
+    "Score": 15
+  },
+  {
+    "GameId": 1,
+    "UserId": 48,
+    "Score": 72
+  },
+  {
+    "GameId": 3,
+    "UserId": 50,
+    "Score": 6
+  },
+  {
+    "GameId": 1,
+    "UserId": 97,
+    "Score": 9
+  },
+  {
+    "GameId": 1,
+    "UserId": 92,
+    "Score": 100
+  },
+  {
+    "GameId": 5,
+    "UserId": 59,
+    "Score": 27
+  },
+  {
+    "GameId": 1,
+    "UserId": 12,
+    "Score": 18
+  },
+  {
+    "GameId": 3,
+    "UserId": 26,
+    "Score": 73
+  },
+  {
+    "GameId": 4,
+    "UserId": 63,
+    "Score": 95
+  },
+  {
+    "GameId": 2,
+    "UserId": 31,
+    "Score": 30
+  },
+  {
+    "GameId": 2,
+    "UserId": 19,
+    "Score": 94
+  },
+  {
+    "GameId": 2,
+    "UserId": 86,
+    "Score": 73
+  },
+  {
+    "GameId": 5,
+    "UserId": 28,
+    "Score": 66
+  },
+  {
+    "GameId": 3,
+    "UserId": 33,
+    "Score": 43
+  },
+  {
+    "GameId": 4,
+    "UserId": 69,
+    "Score": 62
+  },
+  {
+    "GameId": 4,
+    "UserId": 66,
+    "Score": 33
+  },
+  {
+    "GameId": 3,
+    "UserId": 60,
+    "Score": 68
+  },
+  {
+    "GameId": 2,
+    "UserId": 27,
+    "Score": 9
+  },
+  {
+    "GameId": 2,
+    "UserId": 65,
+    "Score": 20
+  },
+  {
+    "GameId": 4,
+    "UserId": 98,
+    "Score": 38
+  },
+  {
+    "GameId": 5,
+    "UserId": 66,
+    "Score": 31
+  },
+  {
+    "GameId": 2,
+    "UserId": 4,
+    "Score": 16
+  },
+  {
+    "GameId": 4,
+    "UserId": 32,
+    "Score": 26
+  },
+  {
+    "GameId": 3,
+    "UserId": 66,
+    "Score": 14
+  },
+  {
+    "GameId": 2,
+    "UserId": 41,
+    "Score": 80
+  },
+  {
+    "GameId": 5,
+    "UserId": 48,
+    "Score": 28
+  },
+  {
+    "GameId": 1,
+    "UserId": 25,
+    "Score": 7
+  },
+  {
+    "GameId": 3,
+    "UserId": 96,
+    "Score": 34
+  },
+  {
+    "GameId": 2,
+    "UserId": 42,
+    "Score": 95
+  },
+  {
+    "GameId": 1,
+    "UserId": 59,
+    "Score": 26
+  },
+  {
+    "GameId": 1,
+    "UserId": 9,
+    "Score": 42
+  },
+  {
+    "GameId": 1,
+    "UserId": 39,
+    "Score": 84
+  },
+  {
+    "GameId": 4,
+    "UserId": 84,
+    "Score": 39
+  },
+  {
+    "GameId": 2,
+    "UserId": 48,
+    "Score": 12
+  },
+  {
+    "GameId": 3,
+    "UserId": 60,
+    "Score": 92
+  },
+  {
+    "GameId": 5,
+    "UserId": 93,
+    "Score": 75
+  },
+  {
+    "GameId": 5,
+    "UserId": 62,
+    "Score": 45
+  },
+  {
+    "GameId": 1,
+    "UserId": 2,
+    "Score": 58
+  },
+  {
+    "GameId": 2,
+    "UserId": 27,
+    "Score": 54
+  },
+  {
+    "GameId": 5,
+    "UserId": 60,
+    "Score": 73
+  },
+  {
+    "GameId": 1,
+    "UserId": 9,
+    "Score": 14
+  },
+  {
+    "GameId": 5,
+    "UserId": 9,
+    "Score": 56
+  },
+  {
+    "GameId": 5,
+    "UserId": 23,
+    "Score": 60
+  },
+  {
+    "GameId": 2,
+    "UserId": 75,
+    "Score": 38
+  },
+  {
+    "GameId": 1,
+    "UserId": 33,
+    "Score": 49
+  },
+  {
+    "GameId": 4,
+    "UserId": 71,
+    "Score": 87
+  },
+  {
+    "GameId": 1,
+    "UserId": 61,
+    "Score": 55
+  },
+  {
+    "GameId": 5,
+    "UserId": 54,
+    "Score": 92
+  },
+  {
+    "GameId": 5,
+    "UserId": 20,
+    "Score": 98
+  },
+  {
+    "GameId": 5,
+    "UserId": 25,
+    "Score": 94
+  },
+  {
+    "GameId": 4,
+    "UserId": 58,
+    "Score": 58
+  },
+  {
+    "GameId": 2,
+    "UserId": 56,
+    "Score": 99
+  },
+  {
+    "GameId": 2,
+    "UserId": 69,
+    "Score": 99
+  },
+  {
+    "GameId": 1,
+    "UserId": 97,
+    "Score": 72
+  },
+  {
+    "GameId": 3,
+    "UserId": 16,
+    "Score": 51
+  },
+  {
+    "GameId": 1,
+    "UserId": 4,
+    "Score": 11
+  },
+  {
+    "GameId": 5,
+    "UserId": 24,
+    "Score": 95
+  },
+  {
+    "GameId": 3,
+    "UserId": 56,
+    "Score": 65
+  },
+  {
+    "GameId": 2,
+    "UserId": 59,
+    "Score": 23
+  },
+  {
+    "GameId": 1,
+    "UserId": 43,
+    "Score": 6
+  },
+  {
+    "GameId": 3,
+    "UserId": 75,
+    "Score": 95
+  },
+  {
+    "GameId": 5,
+    "UserId": 3,
+    "Score": 22
+  },
+  {
+    "GameId": 4,
+    "UserId": 74,
+    "Score": 62
+  },
+  {
+    "GameId": 5,
+    "UserId": 46,
+    "Score": 64
+  },
+  {
+    "GameId": 1,
+    "UserId": 35,
+    "Score": 11
+  },
+  {
+    "GameId": 3,
+    "UserId": 70,
+    "Score": 42
+  },
+  {
+    "GameId": 1,
+    "UserId": 2,
+    "Score": 97
+  },
+  {
+    "GameId": 5,
+    "UserId": 45,
+    "Score": 41
+  },
+  {
+    "GameId": 5,
+    "UserId": 53,
+    "Score": 78
+  },
+  {
+    "GameId": 4,
+    "UserId": 7,
+    "Score": 100
+  },
+  {
+    "GameId": 3,
+    "UserId": 86,
+    "Score": 95
+  },
+  {
+    "GameId": 5,
+    "UserId": 17,
+    "Score": 38
+  },
+  {
+    "GameId": 2,
+    "UserId": 4,
+    "Score": 50
+  },
+  {
+    "GameId": 2,
+    "UserId": 97,
+    "Score": 71
+  },
+  {
+    "GameId": 2,
+    "UserId": 51,
+    "Score": 25
+  },
+  {
+    "GameId": 1,
+    "UserId": 99,
+    "Score": 54
+  },
+  {
+    "GameId": 2,
+    "UserId": 14,
+    "Score": 8
+  },
+  {
+    "GameId": 2,
+    "UserId": 55,
+    "Score": 67
+  },
+  {
+    "GameId": 5,
+    "UserId": 97,
+    "Score": 96
+  },
+  {
+    "GameId": 2,
+    "UserId": 11,
+    "Score": 74
+  },
+  {
+    "GameId": 5,
+    "UserId": 85,
+    "Score": 38
+  },
+  {
+    "GameId": 2,
+    "UserId": 49,
+    "Score": 18
+  },
+  {
+    "GameId": 2,
+    "UserId": 68,
+    "Score": 65
+  },
+  {
+    "GameId": 1,
+    "UserId": 44,
+    "Score": 22
+  },
+  {
+    "GameId": 2,
+    "UserId": 1,
+    "Score": 60
+  },
+  {
+    "GameId": 4,
+    "UserId": 82,
+    "Score": 45
+  },
+  {
+    "GameId": 3,
+    "UserId": 24,
+    "Score": 98
+  },
+  {
+    "GameId": 4,
+    "UserId": 13,
+    "Score": 53
+  },
+  {
+    "GameId": 5,
+    "UserId": 97,
+    "Score": 76
+  },
+  {
+    "GameId": 4,
+    "UserId": 53,
+    "Score": 69
+  },
+  {
+    "GameId": 1,
+    "UserId": 11,
+    "Score": 76
+  },
+  {
+    "GameId": 3,
+    "UserId": 29,
+    "Score": 48
+  },
+  {
+    "GameId": 2,
+    "UserId": 86,
+    "Score": 95
+  },
+  {
+    "GameId": 5,
+    "UserId": 43,
+    "Score": 3
+  },
+  {
+    "GameId": 3,
+    "UserId": 65,
+    "Score": 15
+  },
+  {
+    "GameId": 4,
+    "UserId": 96,
+    "Score": 62
+  },
+  {
+    "GameId": 4,
+    "UserId": 49,
+    "Score": 97
+  },
+  {
+    "GameId": 2,
+    "UserId": 62,
+    "Score": 95
+  },
+  {
+    "GameId": 2,
+    "UserId": 89,
+    "Score": 75
+  },
+  {
+    "GameId": 5,
+    "UserId": 55,
+    "Score": 54
+  },
+  {
+    "GameId": 5,
+    "UserId": 32,
+    "Score": 7
+  },
+  {
+    "GameId": 1,
+    "UserId": 94,
+    "Score": 77
+  },
+  {
+    "GameId": 1,
+    "UserId": 84,
+    "Score": 55
+  },
+  {
+    "GameId": 4,
+    "UserId": 23,
+    "Score": 73
+  },
+  {
+    "GameId": 5,
+    "UserId": 47,
+    "Score": 39
+  },
+  {
+    "GameId": 3,
+    "UserId": 53,
+    "Score": 66
+  },
+  {
+    "GameId": 2,
+    "UserId": 14,
+    "Score": 7
+  },
+  {
+    "GameId": 3,
+    "UserId": 38,
+    "Score": 66
+  },
+  {
+    "GameId": 2,
+    "UserId": 23,
+    "Score": 19
+  },
+  {
+    "GameId": 4,
+    "UserId": 55,
+    "Score": 43
+  },
+  {
+    "GameId": 1,
+    "UserId": 87,
+    "Score": 74
+  },
+  {
+    "GameId": 1,
+    "UserId": 54,
+    "Score": 85
+  },
+  {
+    "GameId": 3,
+    "UserId": 23,
+    "Score": 74
+  },
+  {
+    "GameId": 4,
+    "UserId": 66,
+    "Score": 18
+  },
+  {
+    "GameId": 4,
+    "UserId": 95,
+    "Score": 29
+  },
+  {
+    "GameId": 4,
+    "UserId": 7,
+    "Score": 97
+  },
+  {
+    "GameId": 3,
+    "UserId": 80,
+    "Score": 76
+  },
+  {
+    "GameId": 1,
+    "UserId": 66,
+    "Score": 93
+  },
+  {
+    "GameId": 1,
+    "UserId": 27,
+    "Score": 68
+  },
+  {
+    "GameId": 2,
+    "UserId": 39,
+    "Score": 16
+  },
+  {
+    "GameId": 1,
+    "UserId": 97,
+    "Score": 83
+  },
+  {
+    "GameId": 5,
+    "UserId": 26,
+    "Score": 23
+  },
+  {
+    "GameId": 5,
+    "UserId": 13,
+    "Score": 87
+  },
+  {
+    "GameId": 4,
+    "UserId": 12,
+    "Score": 11
+  },
+  {
+    "GameId": 2,
+    "UserId": 5,
+    "Score": 11
+  },
+  {
+    "GameId": 2,
+    "UserId": 44,
+    "Score": 23
+  },
+  {
+    "GameId": 4,
+    "UserId": 65,
+    "Score": 80
+  },
+  {
+    "GameId": 3,
+    "UserId": 68,
+    "Score": 87
+  },
+  {
+    "GameId": 1,
+    "UserId": 13,
+    "Score": 1
+  },
+  {
+    "GameId": 2,
+    "UserId": 95,
+    "Score": 53
+  },
+  {
+    "GameId": 5,
+    "UserId": 89,
+    "Score": 85
+  },
+  {
+    "GameId": 2,
+    "UserId": 53,
+    "Score": 59
+  },
+  {
+    "GameId": 4,
+    "UserId": 9,
+    "Score": 84
+  },
+  {
+    "GameId": 1,
+    "UserId": 21,
+    "Score": 49
+  },
+  {
+    "GameId": 5,
+    "UserId": 86,
+    "Score": 46
+  },
+  {
+    "GameId": 5,
+    "UserId": 38,
+    "Score": 29
+  },
+  {
+    "GameId": 5,
+    "UserId": 71,
+    "Score": 59
+  },
+  {
+    "GameId": 2,
+    "UserId": 78,
+    "Score": 23
+  },
+  {
+    "GameId": 2,
+    "UserId": 59,
+    "Score": 80
+  },
+  {
+    "GameId": 5,
+    "UserId": 35,
+    "Score": 28
+  },
+  {
+    "GameId": 1,
+    "UserId": 17,
+    "Score": 14
+  },
+  {
+    "GameId": 2,
+    "UserId": 85,
+    "Score": 25
+  },
+  {
+    "GameId": 5,
+    "UserId": 55,
+    "Score": 30
+  },
+  {
+    "GameId": 5,
+    "UserId": 87,
+    "Score": 52
+  },
+  {
+    "GameId": 3,
+    "UserId": 11,
+    "Score": 52
+  },
+  {
+    "GameId": 4,
+    "UserId": 26,
+    "Score": 91
+  },
+  {
+    "GameId": 5,
+    "UserId": 11,
+    "Score": 59
+  },
+  {
+    "GameId": 3,
+    "UserId": 53,
+    "Score": 99
+  },
+  {
+    "GameId": 4,
+    "UserId": 5,
+    "Score": 94
+  },
+  {
+    "GameId": 2,
+    "UserId": 69,
+    "Score": 64
+  },
+  {
+    "GameId": 1,
+    "UserId": 44,
+    "Score": 52
+  },
+  {
+    "GameId": 3,
+    "UserId": 90,
+    "Score": 97
+  },
+  {
+    "GameId": 4,
+    "UserId": 77,
+    "Score": 85
+  },
+  {
+    "GameId": 1,
+    "UserId": 98,
+    "Score": 27
+  },
+  {
+    "GameId": 1,
+    "UserId": 85,
+    "Score": 91
+  },
+  {
+    "GameId": 3,
+    "UserId": 67,
+    "Score": 46
+  },
+  {
+    "GameId": 1,
+    "UserId": 72,
+    "Score": 97
+  },
+  {
+    "GameId": 4,
+    "UserId": 20,
+    "Score": 76
+  },
+  {
+    "GameId": 1,
+    "UserId": 3,
+    "Score": 13
+  },
+  {
+    "GameId": 4,
+    "UserId": 41,
+    "Score": 31
+  },
+  {
+    "GameId": 2,
+    "UserId": 48,
+    "Score": 92
+  },
+  {
+    "GameId": 4,
+    "UserId": 25,
+    "Score": 89
+  },
+  {
+    "GameId": 4,
+    "UserId": 90,
+    "Score": 51
+  },
+  {
+    "GameId": 4,
+    "UserId": 6,
+    "Score": 96
+  },
+  {
+    "GameId": 4,
+    "UserId": 34,
+    "Score": 17
+  },
+  {
+    "GameId": 5,
+    "UserId": 98,
+    "Score": 12
+  },
+  {
+    "GameId": 2,
+    "UserId": 3,
+    "Score": 91
+  },
+  {
+    "GameId": 3,
+    "UserId": 78,
+    "Score": 30
+  },
+  {
+    "GameId": 4,
+    "UserId": 41,
+    "Score": 82
+  },
+  {
+    "GameId": 2,
+    "UserId": 24,
+    "Score": 66
+  },
+  {
+    "GameId": 3,
+    "UserId": 95,
+    "Score": 41
+  },
+  {
+    "GameId": 3,
+    "UserId": 71,
+    "Score": 47
+  },
+  {
+    "GameId": 2,
+    "UserId": 10,
+    "Score": 65
+  },
+  {
+    "GameId": 1,
+    "UserId": 66,
+    "Score": 36
+  },
+  {
+    "GameId": 3,
+    "UserId": 22,
+    "Score": 35
+  },
+  {
+    "GameId": 4,
+    "UserId": 7,
+    "Score": 24
+  },
+  {
+    "GameId": 4,
+    "UserId": 17,
+    "Score": 9
+  },
+  {
+    "GameId": 1,
+    "UserId": 60,
+    "Score": 68
+  },
+  {
+    "GameId": 4,
+    "UserId": 14,
+    "Score": 39
+  },
+  {
+    "GameId": 3,
+    "UserId": 73,
+    "Score": 69
+  },
+  {
+    "GameId": 3,
+    "UserId": 66,
+    "Score": 80
+  },
+  {
+    "GameId": 3,
+    "UserId": 45,
+    "Score": 89
+  },
+  {
+    "GameId": 5,
+    "UserId": 7,
+    "Score": 76
+  },
+  {
+    "GameId": 2,
+    "UserId": 20,
+    "Score": 72
+  },
+  {
+    "GameId": 3,
+    "UserId": 61,
+    "Score": 73
+  },
+  {
+    "GameId": 3,
+    "UserId": 89,
+    "Score": 66
+  },
+  {
+    "GameId": 5,
+    "UserId": 46,
+    "Score": 7
+  },
+  {
+    "GameId": 4,
+    "UserId": 98,
+    "Score": 97
+  },
+  {
+    "GameId": 5,
+    "UserId": 26,
+    "Score": 7
+  },
+  {
+    "GameId": 5,
+    "UserId": 40,
+    "Score": 39
+  },
+  {
+    "GameId": 5,
+    "UserId": 38,
+    "Score": 46
+  },
+  {
+    "GameId": 5,
+    "UserId": 10,
+    "Score": 45
+  },
+  {
+    "GameId": 1,
+    "UserId": 28,
+    "Score": 91
+  },
+  {
+    "GameId": 3,
+    "UserId": 49,
+    "Score": 78
+  },
+  {
+    "GameId": 4,
+    "UserId": 40,
+    "Score": 16
+  },
+  {
+    "GameId": 4,
+    "UserId": 25,
+    "Score": 4
+  },
+  {
+    "GameId": 1,
+    "UserId": 34,
+    "Score": 84
+  },
+  {
+    "GameId": 4,
+    "UserId": 34,
+    "Score": 60
+  },
+  {
+    "GameId": 4,
+    "UserId": 90,
+    "Score": 29
+  },
+  {
+    "GameId": 2,
+    "UserId": 29,
+    "Score": 51
+  },
+  {
+    "GameId": 3,
+    "UserId": 39,
+    "Score": 86
+  },
+  {
+    "GameId": 4,
+    "UserId": 9,
+    "Score": 57
+  },
+  {
+    "GameId": 2,
+    "UserId": 13,
+    "Score": 24
+  },
+  {
+    "GameId": 1,
+    "UserId": 80,
+    "Score": 11
+  },
+  {
+    "GameId": 1,
+    "UserId": 55,
+    "Score": 73
+  },
+  {
+    "GameId": 4,
+    "UserId": 82,
+    "Score": 97
+  },
+  {
+    "GameId": 5,
+    "UserId": 12,
+    "Score": 6
+  },
+  {
+    "GameId": 2,
+    "UserId": 28,
+    "Score": 48
+  },
+  {
+    "GameId": 4,
+    "UserId": 71,
+    "Score": 69
+  },
+  {
+    "GameId": 5,
+    "UserId": 99,
+    "Score": 43
+  },
+  {
+    "GameId": 3,
+    "UserId": 7,
+    "Score": 98
+  },
+  {
+    "GameId": 2,
+    "UserId": 37,
+    "Score": 96
+  },
+  {
+    "GameId": 1,
+    "UserId": 66,
+    "Score": 88
+  },
+  {
+    "GameId": 4,
+    "UserId": 15,
+    "Score": 99
+  },
+  {
+    "GameId": 1,
+    "UserId": 13,
+    "Score": 55
+  },
+  {
+    "GameId": 5,
+    "UserId": 82,
+    "Score": 28
+  },
+  {
+    "GameId": 4,
+    "UserId": 95,
+    "Score": 18
+  },
+  {
+    "GameId": 2,
+    "UserId": 41,
+    "Score": 50
+  },
+  {
+    "GameId": 3,
+    "UserId": 94,
+    "Score": 60
+  },
+  {
+    "GameId": 3,
+    "UserId": 8,
+    "Score": 47
+  },
+  {
+    "GameId": 5,
+    "UserId": 48,
+    "Score": 24
+  },
+  {
+    "GameId": 4,
+    "UserId": 99,
+    "Score": 89
+  },
+  {
+    "GameId": 3,
+    "UserId": 61,
+    "Score": 41
+  },
+  {
+    "GameId": 3,
+    "UserId": 36,
+    "Score": 6
+  },
+  {
+    "GameId": 1,
+    "UserId": 31,
+    "Score": 21
+  },
+  {
+    "GameId": 5,
+    "UserId": 32,
+    "Score": 10
+  },
+  {
+    "GameId": 3,
+    "UserId": 6,
+    "Score": 40
+  },
+  {
+    "GameId": 4,
+    "UserId": 94,
+    "Score": 75
+  },
+  {
+    "GameId": 5,
+    "UserId": 58,
+    "Score": 86
+  },
+  {
+    "GameId": 1,
+    "UserId": 29,
+    "Score": 45
+  },
+  {
+    "GameId": 2,
+    "UserId": 49,
+    "Score": 53
+  },
+  {
+    "GameId": 3,
+    "UserId": 14,
+    "Score": 84
+  },
+  {
+    "GameId": 1,
+    "UserId": 56,
+    "Score": 89
+  },
+  {
+    "GameId": 5,
+    "UserId": 91,
+    "Score": 12
+  },
+  {
+    "GameId": 4,
+    "UserId": 14,
+    "Score": 91
+  },
+  {
+    "GameId": 2,
+    "UserId": 21,
+    "Score": 62
+  },
+  {
+    "GameId": 1,
+    "UserId": 43,
+    "Score": 34
+  },
+  {
+    "GameId": 3,
+    "UserId": 92,
+    "Score": 50
+  },
+  {
+    "GameId": 3,
+    "UserId": 37,
+    "Score": 22
+  },
+  {
+    "GameId": 3,
+    "UserId": 13,
+    "Score": 40
+  },
+  {
+    "GameId": 5,
+    "UserId": 70,
+    "Score": 79
+  },
+  {
+    "GameId": 3,
+    "UserId": 87,
+    "Score": 65
+  },
+  {
+    "GameId": 1,
+    "UserId": 36,
+    "Score": 21
+  },
+  {
+    "GameId": 1,
+    "UserId": 34,
+    "Score": 18
+  },
+  {
+    "GameId": 3,
+    "UserId": 19,
+    "Score": 67
+  },
+  {
+    "GameId": 2,
+    "UserId": 99,
+    "Score": 79
+  },
+  {
+    "GameId": 4,
+    "UserId": 20,
+    "Score": 5
+  },
+  {
+    "GameId": 4,
+    "UserId": 24,
+    "Score": 84
+  },
+  {
+    "GameId": 4,
+    "UserId": 95,
+    "Score": 91
+  },
+  {
+    "GameId": 5,
+    "UserId": 64,
+    "Score": 74
+  },
+  {
+    "GameId": 1,
+    "UserId": 16,
+    "Score": 92
+  },
+  {
+    "GameId": 1,
+    "UserId": 1,
+    "Score": 2
+  },
+  {
+    "GameId": 2,
+    "UserId": 58,
+    "Score": 31
+  },
+  {
+    "GameId": 1,
+    "UserId": 64,
+    "Score": 98
+  },
+  {
+    "GameId": 3,
+    "UserId": 79,
+    "Score": 9
+  },
+  {
+    "GameId": 5,
+    "UserId": 24,
+    "Score": 25
+  },
+  {
+    "GameId": 3,
+    "UserId": 35,
+    "Score": 85
+  },
+  {
+    "GameId": 5,
+    "UserId": 50,
+    "Score": 58
+  },
+  {
+    "GameId": 4,
+    "UserId": 3,
+    "Score": 96
+  },
+  {
+    "GameId": 3,
+    "UserId": 52,
+    "Score": 24
+  },
+  {
+    "GameId": 3,
+    "UserId": 85,
+    "Score": 43
+  },
+  {
+    "GameId": 1,
+    "UserId": 98,
+    "Score": 98
+  },
+  {
+    "GameId": 2,
+    "UserId": 33,
+    "Score": 54
+  },
+  {
+    "GameId": 1,
+    "UserId": 59,
+    "Score": 64
+  },
+  {
+    "GameId": 4,
+    "UserId": 26,
+    "Score": 99
+  },
+  {
+    "GameId": 1,
+    "UserId": 51,
+    "Score": 89
+  },
+  {
+    "GameId": 4,
+    "UserId": 10,
+    "Score": 2
+  },
+  {
+    "GameId": 1,
+    "UserId": 97,
+    "Score": 87
+  },
+  {
+    "GameId": 4,
+    "UserId": 53,
+    "Score": 81
+  },
+  {
+    "GameId": 4,
+    "UserId": 61,
+    "Score": 86
+  },
+  {
+    "GameId": 5,
+    "UserId": 92,
+    "Score": 78
+  },
+  {
+    "GameId": 2,
+    "UserId": 12,
+    "Score": 29
+  },
+  {
+    "GameId": 2,
+    "UserId": 47,
+    "Score": 99
+  },
+  {
+    "GameId": 3,
+    "UserId": 72,
+    "Score": 92
+  },
+  {
+    "GameId": 1,
+    "UserId": 2,
+    "Score": 72
+  },
+  {
+    "GameId": 4,
+    "UserId": 92,
+    "Score": 83
+  },
+  {
+    "GameId": 3,
+    "UserId": 72,
+    "Score": 9
+  },
+  {
+    "GameId": 1,
+    "UserId": 80,
+    "Score": 81
+  },
+  {
+    "GameId": 1,
+    "UserId": 1,
+    "Score": 38
+  },
+  {
+    "GameId": 4,
+    "UserId": 52,
+    "Score": 40
+  },
+  {
+    "GameId": 1,
+    "UserId": 85,
+    "Score": 32
+  },
+  {
+    "GameId": 1,
+    "UserId": 24,
+    "Score": 95
+  },
+  {
+    "GameId": 5,
+    "UserId": 25,
+    "Score": 32
+  },
+  {
+    "GameId": 5,
+    "UserId": 79,
+    "Score": 99
+  },
+  {
+    "GameId": 5,
+    "UserId": 72,
+    "Score": 16
+  },
+  {
+    "GameId": 5,
+    "UserId": 88,
+    "Score": 34
+  },
+  {
+    "GameId": 2,
+    "UserId": 79,
+    "Score": 24
+  },
+  {
+    "GameId": 4,
+    "UserId": 76,
+    "Score": 93
+  },
+  {
+    "GameId": 1,
+    "UserId": 45,
+    "Score": 99
+  },
+  {
+    "GameId": 3,
+    "UserId": 39,
+    "Score": 18
+  },
+  {
+    "GameId": 1,
+    "UserId": 6,
+    "Score": 30
+  },
+  {
+    "GameId": 3,
+    "UserId": 94,
+    "Score": 9
+  },
+  {
+    "GameId": 4,
+    "UserId": 96,
+    "Score": 35
+  },
+  {
+    "GameId": 4,
+    "UserId": 30,
+    "Score": 86
+  },
+  {
+    "GameId": 5,
+    "UserId": 77,
+    "Score": 50
+  },
+  {
+    "GameId": 1,
+    "UserId": 52,
+    "Score": 13
+  },
+  {
+    "GameId": 3,
+    "UserId": 10,
+    "Score": 94
+  },
+  {
+    "GameId": 5,
+    "UserId": 36,
+    "Score": 58
+  },
+  {
+    "GameId": 1,
+    "UserId": 64,
+    "Score": 97
+  },
+  {
+    "GameId": 2,
+    "UserId": 56,
+    "Score": 5
+  },
+  {
+    "GameId": 3,
+    "UserId": 51,
+    "Score": 5
+  },
+  {
+    "GameId": 2,
+    "UserId": 19,
+    "Score": 28
+  },
+  {
+    "GameId": 4,
+    "UserId": 5,
+    "Score": 28
+  },
+  {
+    "GameId": 3,
+    "UserId": 30,
+    "Score": 26
+  },
+  {
+    "GameId": 3,
+    "UserId": 30,
+    "Score": 21
+  },
+  {
+    "GameId": 1,
+    "UserId": 9,
+    "Score": 93
+  },
+  {
+    "GameId": 4,
+    "UserId": 88,
+    "Score": 32
+  },
+  {
+    "GameId": 2,
+    "UserId": 17,
+    "Score": 74
+  },
+  {
+    "GameId": 4,
+    "UserId": 24,
+    "Score": 37
+  },
+  {
+    "GameId": 2,
+    "UserId": 14,
+    "Score": 18
+  },
+  {
+    "GameId": 2,
+    "UserId": 80,
+    "Score": 46
+  },
+  {
+    "GameId": 5,
+    "UserId": 4,
+    "Score": 88
+  },
+  {
+    "GameId": 4,
+    "UserId": 40,
+    "Score": 13
+  },
+  {
+    "GameId": 5,
+    "UserId": 89,
+    "Score": 24
+  },
+  {
+    "GameId": 3,
+    "UserId": 80,
+    "Score": 24
+  },
+  {
+    "GameId": 2,
+    "UserId": 66,
+    "Score": 65
+  },
+  {
+    "GameId": 4,
+    "UserId": 91,
+    "Score": 35
+  },
+  {
+    "GameId": 5,
+    "UserId": 32,
+    "Score": 64
+  },
+  {
+    "GameId": 3,
+    "UserId": 4,
+    "Score": 91
+  },
+  {
+    "GameId": 5,
+    "UserId": 30,
+    "Score": 25
+  },
+  {
+    "GameId": 4,
+    "UserId": 78,
+    "Score": 30
+  },
+  {
+    "GameId": 3,
+    "UserId": 49,
+    "Score": 44
+  },
+  {
+    "GameId": 4,
+    "UserId": 75,
+    "Score": 80
+  },
+  {
+    "GameId": 3,
+    "UserId": 5,
+    "Score": 72
+  },
+  {
+    "GameId": 4,
+    "UserId": 98,
+    "Score": 63
+  },
+  {
+    "GameId": 2,
+    "UserId": 84,
+    "Score": 7
+  },
+  {
+    "GameId": 3,
+    "UserId": 18,
+    "Score": 28
+  },
+  {
+    "GameId": 5,
+    "UserId": 76,
+    "Score": 22
+  },
+  {
+    "GameId": 1,
+    "UserId": 87,
+    "Score": 8
+  },
+  {
+    "GameId": 2,
+    "UserId": 39,
+    "Score": 66
+  },
+  {
+    "GameId": 2,
+    "UserId": 29,
+    "Score": 85
+  },
+  {
+    "GameId": 3,
+    "UserId": 79,
+    "Score": 34
+  },
+  {
+    "GameId": 3,
+    "UserId": 42,
+    "Score": 66
+  },
+  {
+    "GameId": 3,
+    "UserId": 83,
+    "Score": 43
+  },
+  {
+    "GameId": 5,
+    "UserId": 16,
+    "Score": 98
+  },
+  {
+    "GameId": 5,
+    "UserId": 18,
+    "Score": 75
+  },
+  {
+    "GameId": 4,
+    "UserId": 22,
+    "Score": 85
+  },
+  {
+    "GameId": 3,
+    "UserId": 56,
+    "Score": 94
+  },
+  {
+    "GameId": 2,
+    "UserId": 56,
+    "Score": 21
+  },
+  {
+    "GameId": 5,
+    "UserId": 31,
+    "Score": 50
+  },
+  {
+    "GameId": 5,
+    "UserId": 87,
+    "Score": 87
+  },
+  {
+    "GameId": 1,
+    "UserId": 88,
+    "Score": 12
+  },
+  {
+    "GameId": 5,
+    "UserId": 64,
+    "Score": 55
+  },
+  {
+    "GameId": 3,
+    "UserId": 63,
+    "Score": 88
+  },
+  {
+    "GameId": 4,
+    "UserId": 92,
+    "Score": 1
+  },
+  {
+    "GameId": 2,
+    "UserId": 12,
+    "Score": 31
+  },
+  {
+    "GameId": 2,
+    "UserId": 72,
+    "Score": 15
+  },
+  {
+    "GameId": 2,
+    "UserId": 33,
+    "Score": 65
+  },
+  {
+    "GameId": 3,
+    "UserId": 11,
+    "Score": 54
+  },
+  {
+    "GameId": 5,
+    "UserId": 36,
+    "Score": 23
+  },
+  {
+    "GameId": 3,
+    "UserId": 3,
+    "Score": 74
+  },
+  {
+    "GameId": 1,
+    "UserId": 45,
+    "Score": 87
+  },
+  {
+    "GameId": 5,
+    "UserId": 34,
+    "Score": 34
+  },
+  {
+    "GameId": 1,
+    "UserId": 89,
+    "Score": 59
+  },
+  {
+    "GameId": 1,
+    "UserId": 52,
+    "Score": 96
+  },
+  {
+    "GameId": 2,
+    "UserId": 35,
+    "Score": 50
+  },
+  {
+    "GameId": 5,
+    "UserId": 23,
+    "Score": 30
+  },
+  {
+    "GameId": 4,
+    "UserId": 47,
+    "Score": 83
+  },
+  {
+    "GameId": 1,
+    "UserId": 6,
+    "Score": 67
+  },
+  {
+    "GameId": 4,
+    "UserId": 89,
+    "Score": 87
+  },
+  {
+    "GameId": 2,
+    "UserId": 22,
+    "Score": 66
+  },
+  {
+    "GameId": 4,
+    "UserId": 42,
+    "Score": 79
+  },
+  {
+    "GameId": 4,
+    "UserId": 50,
+    "Score": 4
+  },
+  {
+    "GameId": 4,
+    "UserId": 24,
+    "Score": 70
+  },
+  {
+    "GameId": 1,
+    "UserId": 95,
+    "Score": 100
+  },
+  {
+    "GameId": 2,
+    "UserId": 77,
+    "Score": 76
+  },
+  {
+    "GameId": 2,
+    "UserId": 82,
+    "Score": 52
+  },
+  {
+    "GameId": 4,
+    "UserId": 44,
+    "Score": 14
+  },
+  {
+    "GameId": 3,
+    "UserId": 8,
+    "Score": 49
+  },
+  {
+    "GameId": 2,
+    "UserId": 42,
+    "Score": 30
+  },
+  {
+    "GameId": 5,
+    "UserId": 22,
+    "Score": 6
+  },
+  {
+    "GameId": 3,
+    "UserId": 31,
+    "Score": 96
+  },
+  {
+    "GameId": 5,
+    "UserId": 15,
+    "Score": 76
+  },
+  {
+    "GameId": 3,
+    "UserId": 27,
+    "Score": 80
+  },
+  {
+    "GameId": 4,
+    "UserId": 5,
+    "Score": 24
+  },
+  {
+    "GameId": 2,
+    "UserId": 14,
+    "Score": 55
+  },
+  {
+    "GameId": 4,
+    "UserId": 69,
+    "Score": 18
+  },
+  {
+    "GameId": 3,
+    "UserId": 1,
+    "Score": 40
+  },
+  {
+    "GameId": 1,
+    "UserId": 96,
+    "Score": 76
+  },
+  {
+    "GameId": 3,
+    "UserId": 16,
+    "Score": 10
+  },
+  {
+    "GameId": 3,
+    "UserId": 6,
+    "Score": 58
+  },
+  {
+    "GameId": 5,
+    "UserId": 4,
+    "Score": 60
+  },
+  {
+    "GameId": 4,
+    "UserId": 88,
+    "Score": 7
+  },
+  {
+    "GameId": 3,
+    "UserId": 91,
+    "Score": 47
+  },
+  {
+    "GameId": 1,
+    "UserId": 100,
+    "Score": 36
+  },
+  {
+    "GameId": 3,
+    "UserId": 75,
+    "Score": 19
+  },
+  {
+    "GameId": 2,
+    "UserId": 75,
+    "Score": 40
+  },
+  {
+    "GameId": 5,
+    "UserId": 2,
+    "Score": 50
+  },
+  {
+    "GameId": 1,
+    "UserId": 60,
+    "Score": 63
+  },
+  {
+    "GameId": 2,
+    "UserId": 11,
+    "Score": 24
+  },
+  {
+    "GameId": 5,
+    "UserId": 73,
+    "Score": 6
+  },
+  {
+    "GameId": 1,
+    "UserId": 56,
+    "Score": 92
+  },
+  {
+    "GameId": 2,
+    "UserId": 16,
+    "Score": 62
+  },
+  {
+    "GameId": 5,
+    "UserId": 6,
+    "Score": 62
+  },
+  {
+    "GameId": 3,
+    "UserId": 18,
+    "Score": 81
+  },
+  {
+    "GameId": 4,
+    "UserId": 4,
+    "Score": 35
+  },
+  {
+    "GameId": 3,
+    "UserId": 91,
+    "Score": 24
+  },
+  {
+    "GameId": 2,
+    "UserId": 33,
+    "Score": 79
+  },
+  {
+    "GameId": 4,
+    "UserId": 29,
+    "Score": 15
+  },
+  {
+    "GameId": 4,
+    "UserId": 87,
+    "Score": 89
+  },
+  {
+    "GameId": 3,
+    "UserId": 82,
+    "Score": 53
+  },
+  {
+    "GameId": 1,
+    "UserId": 49,
+    "Score": 49
+  },
+  {
+    "GameId": 2,
+    "UserId": 9,
+    "Score": 43
+  },
+  {
+    "GameId": 5,
+    "UserId": 93,
+    "Score": 36
+  },
+  {
+    "GameId": 3,
+    "UserId": 96,
+    "Score": 36
+  },
+  {
+    "GameId": 4,
+    "UserId": 19,
+    "Score": 89
+  },
+  {
+    "GameId": 1,
+    "UserId": 82,
+    "Score": 90
+  },
+  {
+    "GameId": 1,
+    "UserId": 15,
+    "Score": 87
+  },
+  {
+    "GameId": 2,
+    "UserId": 53,
+    "Score": 38
+  },
+  {
+    "GameId": 5,
+    "UserId": 28,
+    "Score": 60
+  },
+  {
+    "GameId": 5,
+    "UserId": 81,
+    "Score": 98
+  },
+  {
+    "GameId": 2,
+    "UserId": 19,
+    "Score": 90
+  },
+  {
+    "GameId": 5,
+    "UserId": 48,
+    "Score": 19
+  },
+  {
+    "GameId": 5,
+    "UserId": 50,
+    "Score": 24
+  },
+  {
+    "GameId": 3,
+    "UserId": 43,
+    "Score": 14
+  },
+  {
+    "GameId": 3,
+    "UserId": 55,
+    "Score": 45
+  },
+  {
+    "GameId": 5,
+    "UserId": 42,
+    "Score": 7
+  },
+  {
+    "GameId": 2,
+    "UserId": 3,
+    "Score": 56
+  },
+  {
+    "GameId": 2,
+    "UserId": 2,
+    "Score": 40
+  },
+  {
+    "GameId": 3,
+    "UserId": 64,
+    "Score": 19
+  },
+  {
+    "GameId": 5,
+    "UserId": 27,
+    "Score": 81
+  },
+  {
+    "GameId": 3,
+    "UserId": 72,
+    "Score": 55
+  },
+  {
+    "GameId": 3,
+    "UserId": 21,
+    "Score": 81
+  },
+  {
+    "GameId": 4,
+    "UserId": 43,
+    "Score": 62
+  },
+  {
+    "GameId": 2,
+    "UserId": 63,
+    "Score": 90
+  },
+  {
+    "GameId": 5,
+    "UserId": 74,
+    "Score": 60
+  },
+  {
+    "GameId": 3,
+    "UserId": 65,
+    "Score": 57
+  },
+  {
+    "GameId": 3,
+    "UserId": 33,
+    "Score": 11
+  },
+  {
+    "GameId": 4,
+    "UserId": 45,
+    "Score": 89
+  },
+  {
+    "GameId": 1,
+    "UserId": 55,
+    "Score": 77
+  },
+  {
+    "GameId": 3,
+    "UserId": 91,
+    "Score": 44
+  },
+  {
+    "GameId": 5,
+    "UserId": 15,
+    "Score": 22
+  },
+  {
+    "GameId": 5,
+    "UserId": 61,
+    "Score": 68
+  },
+  {
+    "GameId": 1,
+    "UserId": 90,
+    "Score": 43
+  },
+  {
+    "GameId": 5,
+    "UserId": 56,
+    "Score": 65
+  },
+  {
+    "GameId": 5,
+    "UserId": 14,
+    "Score": 83
+  },
+  {
+    "GameId": 3,
+    "UserId": 13,
+    "Score": 39
+  },
+  {
+    "GameId": 2,
+    "UserId": 51,
+    "Score": 14
+  },
+  {
+    "GameId": 1,
+    "UserId": 33,
+    "Score": 4
+  },
+  {
+    "GameId": 2,
+    "UserId": 80,
+    "Score": 42
+  },
+  {
+    "GameId": 3,
+    "UserId": 49,
+    "Score": 44
+  },
+  {
+    "GameId": 1,
+    "UserId": 17,
+    "Score": 61
+  },
+  {
+    "GameId": 1,
+    "UserId": 32,
+    "Score": 81
+  },
+  {
+    "GameId": 5,
+    "UserId": 58,
+    "Score": 64
+  },
+  {
+    "GameId": 5,
+    "UserId": 79,
+    "Score": 97
+  },
+  {
+    "GameId": 4,
+    "UserId": 32,
+    "Score": 15
+  },
+  {
+    "GameId": 4,
+    "UserId": 24,
+    "Score": 97
+  },
+  {
+    "GameId": 1,
+    "UserId": 32,
+    "Score": 16
+  },
+  {
+    "GameId": 5,
+    "UserId": 34,
+    "Score": 31
+  },
+  {
+    "GameId": 4,
+    "UserId": 17,
+    "Score": 28
+  },
+  {
+    "GameId": 1,
+    "UserId": 100,
+    "Score": 21
+  },
+  {
+    "GameId": 2,
+    "UserId": 15,
+    "Score": 40
+  },
+  {
+    "GameId": 1,
+    "UserId": 35,
+    "Score": 66
+  },
+  {
+    "GameId": 3,
+    "UserId": 10,
+    "Score": 35
+  },
+  {
+    "GameId": 5,
+    "UserId": 52,
+    "Score": 91
+  },
+  {
+    "GameId": 2,
+    "UserId": 92,
+    "Score": 28
+  },
+  {
+    "GameId": 1,
+    "UserId": 50,
+    "Score": 1
+  },
+  {
+    "GameId": 2,
+    "UserId": 68,
+    "Score": 50
+  },
+  {
+    "GameId": 2,
+    "UserId": 56,
+    "Score": 51
+  },
+  {
+    "GameId": 3,
+    "UserId": 99,
+    "Score": 69
+  },
+  {
+    "GameId": 4,
+    "UserId": 29,
+    "Score": 36
+  },
+  {
+    "GameId": 2,
+    "UserId": 52,
+    "Score": 78
+  },
+  {
+    "GameId": 5,
+    "UserId": 2,
+    "Score": 8
+  },
+  {
+    "GameId": 2,
+    "UserId": 3,
+    "Score": 2
+  },
+  {
+    "GameId": 4,
+    "UserId": 27,
+    "Score": 13
+  },
+  {
+    "GameId": 4,
+    "UserId": 79,
+    "Score": 30
+  },
+  {
+    "GameId": 1,
+    "UserId": 80,
+    "Score": 77
+  },
+  {
+    "GameId": 2,
+    "UserId": 87,
+    "Score": 24
+  },
+  {
+    "GameId": 2,
+    "UserId": 61,
+    "Score": 53
+  },
+  {
+    "GameId": 4,
+    "UserId": 31,
+    "Score": 90
+  },
+  {
+    "GameId": 3,
+    "UserId": 42,
+    "Score": 99
+  },
+  {
+    "GameId": 2,
+    "UserId": 67,
+    "Score": 96
+  },
+  {
+    "GameId": 4,
+    "UserId": 7,
+    "Score": 73
+  },
+  {
+    "GameId": 4,
+    "UserId": 8,
+    "Score": 88
+  },
+  {
+    "GameId": 3,
+    "UserId": 23,
+    "Score": 20
+  },
+  {
+    "GameId": 5,
+    "UserId": 13,
+    "Score": 76
+  },
+  {
+    "GameId": 1,
+    "UserId": 55,
+    "Score": 55
+  },
+  {
+    "GameId": 2,
+    "UserId": 57,
+    "Score": 31
+  },
+  {
+    "GameId": 4,
+    "UserId": 47,
+    "Score": 92
+  },
+  {
+    "GameId": 1,
+    "UserId": 1,
+    "Score": 67
+  },
+  {
+    "GameId": 1,
+    "UserId": 40,
+    "Score": 38
+  },
+  {
+    "GameId": 5,
+    "UserId": 92,
+    "Score": 3
+  },
+  {
+    "GameId": 4,
+    "UserId": 40,
+    "Score": 89
+  },
+  {
+    "GameId": 1,
+    "UserId": 94,
+    "Score": 8
+  },
+  {
+    "GameId": 3,
+    "UserId": 9,
+    "Score": 53
+  },
+  {
+    "GameId": 5,
+    "UserId": 84,
+    "Score": 69
+  },
+  {
+    "GameId": 4,
+    "UserId": 15,
+    "Score": 8
+  },
+  {
+    "GameId": 4,
+    "UserId": 27,
+    "Score": 60
+  },
+  {
+    "GameId": 5,
+    "UserId": 64,
+    "Score": 43
+  },
+  {
+    "GameId": 5,
+    "UserId": 1,
+    "Score": 78
+  },
+  {
+    "GameId": 2,
+    "UserId": 31,
+    "Score": 90
+  },
+  {
+    "GameId": 2,
+    "UserId": 49,
+    "Score": 13
+  },
+  {
+    "GameId": 3,
+    "UserId": 33,
+    "Score": 22
+  },
+  {
+    "GameId": 3,
+    "UserId": 57,
+    "Score": 80
+  },
+  {
+    "GameId": 3,
+    "UserId": 60,
+    "Score": 72
+  },
+  {
+    "GameId": 1,
+    "UserId": 37,
+    "Score": 95
+  },
+  {
+    "GameId": 1,
+    "UserId": 6,
+    "Score": 26
+  },
+  {
+    "GameId": 1,
+    "UserId": 95,
+    "Score": 76
+  },
+  {
+    "GameId": 1,
+    "UserId": 41,
+    "Score": 47
+  },
+  {
+    "GameId": 5,
+    "UserId": 33,
+    "Score": 83
+  },
+  {
+    "GameId": 2,
+    "UserId": 52,
+    "Score": 38
+  },
+  {
+    "GameId": 2,
+    "UserId": 80,
+    "Score": 20
+  },
+  {
+    "GameId": 5,
+    "UserId": 71,
+    "Score": 25
+  },
+  {
+    "GameId": 3,
+    "UserId": 38,
+    "Score": 14
+  },
+  {
+    "GameId": 5,
+    "UserId": 73,
+    "Score": 90
+  },
+  {
+    "GameId": 1,
+    "UserId": 96,
+    "Score": 84
+  },
+  {
+    "GameId": 5,
+    "UserId": 46,
+    "Score": 53
+  },
+  {
+    "GameId": 4,
+    "UserId": 63,
+    "Score": 22
+  },
+  {
+    "GameId": 2,
+    "UserId": 42,
+    "Score": 48
+  },
+  {
+    "GameId": 2,
+    "UserId": 42,
+    "Score": 85
+  },
+  {
+    "GameId": 3,
+    "UserId": 34,
+    "Score": 57
+  },
+  {
+    "GameId": 2,
+    "UserId": 98,
+    "Score": 27
+  },
+  {
+    "GameId": 4,
+    "UserId": 72,
+    "Score": 96
+  },
+  {
+    "GameId": 4,
+    "UserId": 91,
+    "Score": 71
+  },
+  {
+    "GameId": 3,
+    "UserId": 20,
+    "Score": 9
+  },
+  {
+    "GameId": 4,
+    "UserId": 36,
+    "Score": 62
+  },
+  {
+    "GameId": 5,
+    "UserId": 7,
+    "Score": 9
+  },
+  {
+    "GameId": 2,
+    "UserId": 21,
+    "Score": 85
+  },
+  {
+    "GameId": 5,
+    "UserId": 74,
+    "Score": 52
+  },
+  {
+    "GameId": 2,
+    "UserId": 50,
+    "Score": 39
+  },
+  {
+    "GameId": 1,
+    "UserId": 21,
+    "Score": 8
+  },
+  {
+    "GameId": 2,
+    "UserId": 43,
+    "Score": 83
+  },
+  {
+    "GameId": 2,
+    "UserId": 78,
+    "Score": 67
+  },
+  {
+    "GameId": 2,
+    "UserId": 41,
+    "Score": 39
+  },
+  {
+    "GameId": 4,
+    "UserId": 5,
+    "Score": 62
+  },
+  {
+    "GameId": 4,
+    "UserId": 82,
+    "Score": 68
+  },
+  {
+    "GameId": 3,
+    "UserId": 27,
+    "Score": 28
+  },
+  {
+    "GameId": 3,
+    "UserId": 63,
+    "Score": 66
+  },
+  {
+    "GameId": 2,
+    "UserId": 16,
+    "Score": 5
+  },
+  {
+    "GameId": 5,
+    "UserId": 26,
+    "Score": 44
+  },
+  {
+    "GameId": 3,
+    "UserId": 50,
+    "Score": 95
+  },
+  {
+    "GameId": 4,
+    "UserId": 32,
+    "Score": 9
+  },
+  {
+    "GameId": 4,
+    "UserId": 63,
+    "Score": 26
+  },
+  {
+    "GameId": 2,
+    "UserId": 98,
+    "Score": 13
+  },
+  {
+    "GameId": 3,
+    "UserId": 99,
+    "Score": 59
+  },
+  {
+    "GameId": 5,
+    "UserId": 54,
+    "Score": 91
+  },
+  {
+    "GameId": 1,
+    "UserId": 74,
+    "Score": 36
+  },
+  {
+    "GameId": 2,
+    "UserId": 16,
+    "Score": 87
+  },
+  {
+    "GameId": 1,
+    "UserId": 51,
+    "Score": 12
+  },
+  {
+    "GameId": 4,
+    "UserId": 77,
+    "Score": 57
+  },
+  {
+    "GameId": 3,
+    "UserId": 39,
+    "Score": 21
+  },
+  {
+    "GameId": 3,
+    "UserId": 22,
+    "Score": 12
+  },
+  {
+    "GameId": 4,
+    "UserId": 1,
+    "Score": 80
+  },
+  {
+    "GameId": 1,
+    "UserId": 58,
+    "Score": 95
+  },
+  {
+    "GameId": 3,
+    "UserId": 32,
+    "Score": 83
+  },
+  {
+    "GameId": 3,
+    "UserId": 68,
+    "Score": 43
+  },
+  {
+    "GameId": 2,
+    "UserId": 52,
+    "Score": 95
+  },
+  {
+    "GameId": 5,
+    "UserId": 10,
+    "Score": 54
+  },
+  {
+    "GameId": 1,
+    "UserId": 100,
+    "Score": 84
+  },
+  {
+    "GameId": 4,
+    "UserId": 59,
+    "Score": 58
+  },
+  {
+    "GameId": 4,
+    "UserId": 51,
+    "Score": 75
+  },
+  {
+    "GameId": 3,
+    "UserId": 91,
+    "Score": 57
+  },
+  {
+    "GameId": 3,
+    "UserId": 12,
+    "Score": 10
+  },
+  {
+    "GameId": 1,
+    "UserId": 36,
+    "Score": 26
+  },
+  {
+    "GameId": 2,
+    "UserId": 5,
+    "Score": 25
+  },
+  {
+    "GameId": 3,
+    "UserId": 50,
+    "Score": 15
+  },
+  {
+    "GameId": 2,
+    "UserId": 31,
+    "Score": 3
+  },
+  {
+    "GameId": 2,
+    "UserId": 1,
+    "Score": 22
+  },
+  {
+    "GameId": 2,
+    "UserId": 13,
+    "Score": 92
+  },
+  {
+    "GameId": 4,
+    "UserId": 94,
+    "Score": 24
+  },
+  {
+    "GameId": 1,
+    "UserId": 88,
+    "Score": 83
+  },
+  {
+    "GameId": 1,
+    "UserId": 97,
+    "Score": 21
+  },
+  {
+    "GameId": 2,
+    "UserId": 46,
+    "Score": 72
+  },
+  {
+    "GameId": 2,
+    "UserId": 9,
+    "Score": 86
+  },
+  {
+    "GameId": 3,
+    "UserId": 31,
+    "Score": 54
+  },
+  {
+    "GameId": 4,
+    "UserId": 81,
+    "Score": 81
+  },
+  {
+    "GameId": 2,
+    "UserId": 66,
+    "Score": 38
+  },
+  {
+    "GameId": 5,
+    "UserId": 38,
+    "Score": 62
+  },
+  {
+    "GameId": 1,
+    "UserId": 28,
+    "Score": 47
+  },
+  {
+    "GameId": 4,
+    "UserId": 49,
+    "Score": 84
+  },
+  {
+    "GameId": 1,
+    "UserId": 93,
+    "Score": 89
+  },
+  {
+    "GameId": 2,
+    "UserId": 77,
+    "Score": 39
+  },
+  {
+    "GameId": 1,
+    "UserId": 33,
+    "Score": 37
+  },
+  {
+    "GameId": 4,
+    "UserId": 50,
+    "Score": 92
+  },
+  {
+    "GameId": 1,
+    "UserId": 1,
+    "Score": 62
+  },
+  {
+    "GameId": 4,
+    "UserId": 71,
+    "Score": 21
+  },
+  {
+    "GameId": 1,
+    "UserId": 34,
+    "Score": 23
+  },
+  {
+    "GameId": 4,
+    "UserId": 33,
+    "Score": 48
+  },
+  {
+    "GameId": 2,
+    "UserId": 26,
+    "Score": 53
+  },
+  {
+    "GameId": 1,
+    "UserId": 84,
+    "Score": 67
+  },
+  {
+    "GameId": 2,
+    "UserId": 60,
+    "Score": 21
+  },
+  {
+    "GameId": 4,
+    "UserId": 26,
+    "Score": 88
+  },
+  {
+    "GameId": 4,
+    "UserId": 21,
+    "Score": 69
+  },
+  {
+    "GameId": 2,
+    "UserId": 96,
+    "Score": 12
+  },
+  {
+    "GameId": 3,
+    "UserId": 46,
+    "Score": 26
+  },
+  {
+    "GameId": 2,
+    "UserId": 26,
+    "Score": 37
+  },
+  {
+    "GameId": 4,
+    "UserId": 24,
+    "Score": 78
+  },
+  {
+    "GameId": 2,
+    "UserId": 69,
+    "Score": 52
+  },
+  {
+    "GameId": 1,
+    "UserId": 28,
+    "Score": 14
+  },
+  {
+    "GameId": 3,
+    "UserId": 67,
+    "Score": 97
+  },
+  {
+    "GameId": 1,
+    "UserId": 31,
+    "Score": 87
+  },
+  {
+    "GameId": 2,
+    "UserId": 99,
+    "Score": 23
+  },
+  {
+    "GameId": 3,
+    "UserId": 34,
+    "Score": 8
+  },
+  {
+    "GameId": 4,
+    "UserId": 51,
+    "Score": 74
+  },
+  {
+    "GameId": 2,
+    "UserId": 83,
+    "Score": 35
+  },
+  {
+    "GameId": 4,
+    "UserId": 81,
+    "Score": 97
+  },
+  {
+    "GameId": 3,
+    "UserId": 2,
+    "Score": 58
+  },
+  {
+    "GameId": 1,
+    "UserId": 65,
+    "Score": 55
+  },
+  {
+    "GameId": 5,
+    "UserId": 24,
+    "Score": 72
+  },
+  {
+    "GameId": 4,
+    "UserId": 40,
+    "Score": 61
+  },
+  {
+    "GameId": 1,
+    "UserId": 32,
+    "Score": 22
+  },
+  {
+    "GameId": 2,
+    "UserId": 61,
+    "Score": 80
+  },
+  {
+    "GameId": 2,
+    "UserId": 94,
+    "Score": 18
+  },
+  {
+    "GameId": 4,
+    "UserId": 61,
+    "Score": 59
+  },
+  {
+    "GameId": 3,
+    "UserId": 74,
+    "Score": 68
+  },
+  {
+    "GameId": 4,
+    "UserId": 82,
+    "Score": 47
+  },
+  {
+    "GameId": 4,
+    "UserId": 76,
+    "Score": 41
+  },
+  {
+    "GameId": 1,
+    "UserId": 73,
+    "Score": 6
+  },
+  {
+    "GameId": 3,
+    "UserId": 12,
+    "Score": 88
+  },
+  {
+    "GameId": 3,
+    "UserId": 13,
+    "Score": 61
+  },
+  {
+    "GameId": 2,
+    "UserId": 98,
+    "Score": 16
+  },
+  {
+    "GameId": 4,
+    "UserId": 94,
+    "Score": 20
+  },
+  {
+    "GameId": 2,
+    "UserId": 29,
+    "Score": 8
+  },
+  {
+    "GameId": 1,
+    "UserId": 29,
+    "Score": 81
+  },
+  {
+    "GameId": 1,
+    "UserId": 68,
+    "Score": 90
+  },
+  {
+    "GameId": 3,
+    "UserId": 7,
+    "Score": 66
+  },
+  {
+    "GameId": 4,
+    "UserId": 26,
+    "Score": 26
+  },
+  {
+    "GameId": 1,
+    "UserId": 52,
+    "Score": 93
+  },
+  {
+    "GameId": 2,
+    "UserId": 94,
+    "Score": 22
+  },
+  {
+    "GameId": 4,
+    "UserId": 25,
+    "Score": 93
+  },
+  {
+    "GameId": 2,
+    "UserId": 44,
+    "Score": 1
+  },
+  {
+    "GameId": 5,
+    "UserId": 33,
+    "Score": 70
+  },
+  {
+    "GameId": 2,
+    "UserId": 24,
+    "Score": 29
+  },
+  {
+    "GameId": 3,
+    "UserId": 90,
+    "Score": 7
+  },
+  {
+    "GameId": 1,
+    "UserId": 44,
+    "Score": 91
+  },
+  {
+    "GameId": 5,
+    "UserId": 10,
+    "Score": 64
+  },
+  {
+    "GameId": 5,
+    "UserId": 77,
+    "Score": 43
+  },
+  {
+    "GameId": 1,
+    "UserId": 59,
+    "Score": 53
+  },
+  {
+    "GameId": 2,
+    "UserId": 78,
+    "Score": 99
+  },
+  {
+    "GameId": 3,
+    "UserId": 5,
+    "Score": 96
+  },
+  {
+    "GameId": 4,
+    "UserId": 43,
+    "Score": 8
+  },
+  {
+    "GameId": 3,
+    "UserId": 8,
+    "Score": 40
+  },
+  {
+    "GameId": 4,
+    "UserId": 41,
+    "Score": 84
+  },
+  {
+    "GameId": 5,
+    "UserId": 76,
+    "Score": 36
+  },
+  {
+    "GameId": 5,
+    "UserId": 66,
+    "Score": 66
+  },
+  {
+    "GameId": 5,
+    "UserId": 31,
+    "Score": 81
+  },
+  {
+    "GameId": 2,
+    "UserId": 92,
+    "Score": 92
+  },
+  {
+    "GameId": 5,
+    "UserId": 5,
+    "Score": 53
+  },
+  {
+    "GameId": 2,
+    "UserId": 73,
+    "Score": 88
+  },
+  {
+    "GameId": 3,
+    "UserId": 77,
+    "Score": 13
+  },
+  {
+    "GameId": 1,
+    "UserId": 41,
+    "Score": 12
+  },
+  {
+    "GameId": 1,
+    "UserId": 2,
+    "Score": 8
+  },
+  {
+    "GameId": 3,
+    "UserId": 37,
+    "Score": 73
+  },
+  {
+    "GameId": 3,
+    "UserId": 19,
+    "Score": 30
+  },
+  {
+    "GameId": 4,
+    "UserId": 96,
+    "Score": 99
+  },
+  {
+    "GameId": 5,
+    "UserId": 5,
+    "Score": 26
+  },
+  {
+    "GameId": 4,
+    "UserId": 72,
+    "Score": 52
+  },
+  {
+    "GameId": 5,
+    "UserId": 39,
+    "Score": 14
+  },
+  {
+    "GameId": 4,
+    "UserId": 7,
+    "Score": 33
+  },
+  {
+    "GameId": 3,
+    "UserId": 46,
+    "Score": 20
+  },
+  {
+    "GameId": 4,
+    "UserId": 25,
+    "Score": 56
+  },
+  {
+    "GameId": 2,
+    "UserId": 73,
+    "Score": 75
+  },
+  {
+    "GameId": 2,
+    "UserId": 62,
+    "Score": 3
+  },
+  {
+    "GameId": 5,
+    "UserId": 12,
+    "Score": 13
+  },
+  {
+    "GameId": 3,
+    "UserId": 89,
+    "Score": 71
+  },
+  {
+    "GameId": 5,
+    "UserId": 71,
+    "Score": 60
+  },
+  {
+    "GameId": 1,
+    "UserId": 82,
+    "Score": 67
+  },
+  {
+    "GameId": 4,
+    "UserId": 99,
+    "Score": 97
+  },
+  {
+    "GameId": 5,
+    "UserId": 36,
+    "Score": 8
+  },
+  {
+    "GameId": 1,
+    "UserId": 82,
+    "Score": 11
+  },
+  {
+    "GameId": 2,
+    "UserId": 58,
+    "Score": 69
+  },
+  {
+    "GameId": 1,
+    "UserId": 43,
+    "Score": 85
+  },
+  {
+    "GameId": 2,
+    "UserId": 100,
+    "Score": 79
+  }
+]
