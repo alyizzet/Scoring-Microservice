@@ -20,7 +20,7 @@
 <b> Required </b>
 
 1. How to build the microservice
-2. Usage examples through cURL(Postman API Tester)
+2. Usage examples through cURL(Postman API Tester), for public documentation visit: https://documenter.getpostman.com/view/10996353/T1DtcufY?version=latest
 3. Testing
-4. Architectural Diagram + Text, how it should be implemented, how user interact with the service.
+4. Architectural Diagram + Text, how it should be implemented, how user interacts with the service.
 5. CloudCraft Diagram
