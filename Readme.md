@@ -24,3 +24,4 @@
 3. Testing
 4. Architectural Diagram + Text, how it should be implemented, how user interacts with the service.
 5. CloudCraft Diagram
+6. For the DockerHub Image: https://hub.docker.com/repository/docker/elkmann/score_microservice
