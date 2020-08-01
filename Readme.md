@@ -6,7 +6,7 @@
 
 <h3> Docker Build & Run Commands </h3>
 - docker build -t score_microservice . <br>
-- docker run -d -p 5000:5000 score_microservice  <br>
+- docker run -d -p 5000:5000 score_microservice(or elkmann/score_microservice:firsttry) <br>
 - docker ps <br>
 - docker stop $(docker ps -aq) <br>
 - docker rm container

@@ -1,4 +1,4 @@
-from flask import Flask,request,jsonify,render_template
+from flask import Flask,request,jsonify,render_template,jsonify
 from clickhouse_driver import Client
 import pandas as pd
 from flask_jsonpify import jsonpify
@@ -19,7 +19,8 @@ def newscore():
       new_score = str(content['Score'])
       
       client.execute('INSERT INTO SpilScoreboard(GameId,UserId,Score) VALUES',[(game_id,user_id,new_score)])
-      return 'Inserted New Score to the Database', 200
+      res = {'Inserted New Score to the Database':True}
+      return jsonify(res), 200
    except:
       raise BadRequest()
 
@@ -35,7 +36,10 @@ def ranking():
       result, columns = client.execute(ranking_query, with_column_types=True)
       df = pd.DataFrame(result, columns=[tuple[0] for tuple in columns])
       rank = df.query('UserId=="{}"'.format(user_id)).iloc[0]
-      return "Here is your Ranking!: {}".format(rank[1]), 200
+     
+      data = {'your_ranking': int(rank[1])}#"Here is your Ranking!: {}".format(rank[1])
+   
+      return jsonify(data), 200
   except:
       raise BadRequest()
    
@@ -57,7 +61,12 @@ def highscores():
 
       df_list = df.values.tolist() # This sends back the values as JSON 
       top_3 = jsonpify(df_list) # JSONPIFY
-      return render_template('scoreboard.html',  tables=[df.to_html(classes='data')], titles=df.columns.values)
+
+      response = {'first player_id': df_list[0],
+                  'second player_id': df_list[1],
+                  'third player_id': df_list[2]}
+
+      return jsonify(response),200 #render_template('scoreboard.html',  tables=[df.to_html(classes='data')], titles=df.columns.values)
    except:
       raise BadRequest()
   
